@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: me.glats
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client, java, java-application, junit, logback, maven, netty-server, openapi, readme, shade, yaml]
